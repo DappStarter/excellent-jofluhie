@@ -1,0 +1,19 @@
+{
+    "name": "inflow Music",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/asset_value_tracking/token/supply": "210000000",
+        "/category/asset_value_tracking/token/name": "inflow",
+        "/category/asset_value_tracking/token/symbol": "INFLOW",
+        "/category/collection/entity": true,
+        "/category/asset_value_tracking/token/decimals": "18"
+    }
+}
